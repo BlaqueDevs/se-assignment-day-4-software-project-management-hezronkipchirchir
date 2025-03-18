@@ -72,7 +72,7 @@ it would offer 24/7 support for non-emergency inquiries which is not offered by 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 it ensures a focused development approach
 it enhances user experience
-reduces development time and costs
+it reduces development time and costs
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 It ensures a focused development approach, leading to a user-friendly chatbot that efficiently delivers hospital information. It also enhances user experience by providing quick and accurate responses
